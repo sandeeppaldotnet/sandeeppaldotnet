@@ -1,4 +1,4 @@
-![logo] <img src="https://drive.google.com/file/d/1x5Zgp7Xnv-z_73e7C7Jx00H2TauHkVXe/view?usp=sharing"/>
+![logo] <img src="https://github.com/sandeeppaldotnet/sandeeppaldotnet/blob/main/SandeepPaldotnet.png"/>
 <h1 align="center">Hi 👋, I'm Sandeep Pal</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
