@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [MyCustomers.io](https://mycustomers.io/)
 
-- 🌱 I’m currently learning **React JS,.Net 9, C#12, Sql server 2022**
+- 🌱 I’m currently learning **React JS, Node JS, Azure Cloud, .Net 9, C#12, Sql server 2022**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sandeeppal/](https://www.linkedin.com/in/sandeeppal/)
 
